@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "bio-nbs"
+  site-url: "https://sky1ove.github.io/bio-nbs"
+  description: "A collection of notebooks for bio-related data analysis"
+  repo-branch: main
+  repo-url: "https://github.com/sky1ove/bio-nbs"
